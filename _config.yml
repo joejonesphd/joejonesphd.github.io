@@ -24,7 +24,7 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Joe Jones
-description: "A gem-based responsive simple texture styled Jekyll theme."
+description: "Quant"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name: Joe Jones
@@ -62,6 +62,6 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. r
 
 paths:
   home: /
-  blog: /blog/
+  blog: /the rabbit hole/
   categories: /blog/categories/
   tags: /blog/tags/
