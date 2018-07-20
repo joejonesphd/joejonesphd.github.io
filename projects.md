@@ -4,8 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+These projects will take you to my [Github page] (https://github.com/joejonesphd) where data files and material for the project are available. These are mostly tutorials for running analyses in R and SPSS.
+
+### [Simple t-test with R on batting data](https://github.com/tux4kids/tuxmania) 
+This project will take you to a file with an Excel file containing batting averages for eligible players in the MLB. The file is sorted by American and National League Players. 
 
 ***
 
