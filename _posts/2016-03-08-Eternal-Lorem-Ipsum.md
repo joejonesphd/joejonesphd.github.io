@@ -13,8 +13,8 @@ So I am basically just typing here in R to see if things happen the way I want t
 
 * does a bullet
 
-# is somthing
-## is something else
+# is the title
+## is a subheading
 
 I wonder how I insert files that can be accessed. 
 
