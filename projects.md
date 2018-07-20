@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-These projects will take you to my [Github page] (https://github.com/joejonesphd) where data files and material for the project are available. These are mostly tutorials for running analyses in R and SPSS.
+These projects will take you to my [Github page](https://github.com/joejonesphd) where data files and material for the project are available. These are mostly tutorials for running analyses in R and SPSS.
 
 ### [Simple t-test with R on batting data](https://github.com/tux4kids/tuxmania) 
 This project will take you to a file with an Excel file containing batting averages for eligible players in the MLB. The file is sorted by American and National League Players. 
