@@ -13,7 +13,7 @@ I am originally from Chattanooga, TN. I received my Bachelors and Masters from t
 
 ## Roles
 
-* Instructor - Utah State University
+* Instructor - PSY/EDUC 6600 Utah State University
 * Senior Research Associate, Ross Trial Consulting
 
 ## Interests
