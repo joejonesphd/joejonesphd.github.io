@@ -4,31 +4,35 @@ title: First Post Test
 author: Joe Jones
 ---
 
-This is a short test for post on the website
+Test for posting on website and a markdown cheatsheet.
 
-## Does this work? 
+# Below includes some formatting checks. 
 -----
 
-I am typing here in R to see if things happen the way I want them to. I am also using this as my markdown cheetsheat. Feel free to look into the file repository for this post and use it as well.
+I am typing here in R. All of the formatting comes from specific text structures. I am also using this as my markdown cheetsheat. Feel free to look into the file repository for this post and use it as well.
 
-* does a bullet
+* Bullet Point
 
-# H1 - is the title
-## H2 - is a subheading
-### H3 - is a black subheading
-#### H4 - Test 4
-##### H5 - Test 5
-###### H6 - Test 6
+# H1 - Level 1 Heading
+## H2 - Level 2 subheading (in color font)
+### H3 - Black font subheading
+#### H4 - Grayish subheading
+##### H5 - Smaller than H3
+###### H6 - Smaller than H5
 
 Alternative Headers for H1 and H2 can be done with subline underlines
 
 H1 - Alt Method
 ===============
+
 H2 - Alt Method
 ---------------
 
 H2 - Alt Method Test
 ------
+The lines underneath do not have to be the same length of the text. 
+
+# Emphasizing
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -42,7 +46,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Links test for a variety of options
 
 [in line style for Google.com](google.com)
-[in line style with title](google.com "Google's Homepage") This will display once mouse hoovers over link
+[in line style with title](google.com "Google's Homepage") This will display once mouse hoovers over link.
+
 [I'm a reference-style link][Arbitrary case-insensitive reference text] The Reference is stated below. 
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
@@ -71,7 +76,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/joejonesphd/joejonesphd.github.io/blob/master/images/CW.jpg "CW Logo"
+[logo]: https://github.com/joejonesphd/joejonesphd.github.io/tree/master/images/CW.jpg "CW Logo"
 
 # Leaving Code chucks available
 Inline `code` has `back ticks arond` it.
@@ -101,16 +106,36 @@ Markdown | Less | Pretty
 no | need | to line it up
 ```
 
+Example of a Table
+| Column 1      | Column 2      | Column 3  |
+| ------------- |:-------------:| ---------:|
+| C2    is      | right-aligned |     $1600 |
+| C3    is      | centered      |       $12 |
+| note the dash | are neat      |        $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+no | need | to line it up
+
 # Inserting a line test
 Hopefully there is a break line
 Hyphens
+
 ---
+
 Asterisks
+
 ***
+
 Underscore
 ___
 
-#Bloack Quotes
+# Block Quotes
 This is pretty simple. Just use an arrow.
 
 >You miss 100% of the shots you don't take. 
