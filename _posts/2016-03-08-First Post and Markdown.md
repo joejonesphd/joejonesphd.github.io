@@ -106,7 +106,21 @@ Markdown | Less | Pretty
 no | need | to line it up
 ```
 
+Example of a Table
+| Column 1      | Column 2      | Column 3  |
+| ------------- |:-------------:| ---------:|
+| C2    is      | right-aligned |     $1600 |
+| C3    is      | centered      |       $12 |
+| note the dash | are neat      |        $1 |
 
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+no | need | to line it up
 
 # Inserting a line test
 Hopefully there is a break line
