@@ -25,7 +25,13 @@ I am originally from Chattanooga, TN. I received my Bachelors and Masters from t
 
 ## Publications
 
-* [**How related are changes in self-rated health and depression over time? A Growth Mixture Model approach in older adults**] 
+* [**Longitudinal Correspondence between Subjective and Objective Memory in the Oldest Old: A Parallel-Process Model by Gender**](#)
+
+  Jones, J.W., Fauth, E.B., Ernsth-Bravell, M., Johansson, B., and Ledermann, T., Under Review
+  
+***
+
+* [**How related are changes in self-rated health and depression over time? A Growth Mixture Model approach in older adults**](#)
 
   Jones, J.W., Ledermann, T., Fauth, E.B., Under Review.
 
