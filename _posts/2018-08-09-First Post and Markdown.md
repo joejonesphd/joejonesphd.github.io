@@ -71,13 +71,13 @@ Some text to show that the reference links can follow later.
 Here's my Woodworking logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/joejonesphd/joejonesphd.github.io/blob/master/images/CW.jpg "Cowboy Woodworks")
+![alt text](https://github.com/joejonesphd/joejonesphd.github.io/blob/master/images/CW.png "Cowboy Woodworks")
 
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/joejonesphd/joejonesphd.github.io/tree/master/images/CW.jpg "CW Logo"
+[logo]: https://github.com/joejonesphd/joejonesphd.github.io/tree/master/images/CW.png "CW Logo"
 
 # Leaving Code chucks available
 Inline `code` has `back ticks arond` it.
