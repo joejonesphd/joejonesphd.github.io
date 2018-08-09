@@ -73,6 +73,7 @@ Here's my Woodworking logo (hover to see the title text):
 Inline-style: 
 ![alt text](https://github.com/joejonesphd/joejonesphd.github.io/blob/master/images/CW.jpg "Cowboy Woodworks")
 
+
 Reference-style: 
 ![alt text][logo]
 
