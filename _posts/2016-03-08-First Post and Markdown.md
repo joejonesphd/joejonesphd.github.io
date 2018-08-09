@@ -107,6 +107,7 @@ no | need | to line it up
 ```
 
 Example of a Table
+
 | Column 1      | Column 2      | Column 3  |
 | ------------- |:-------------:| ---------:|
 | C2    is      | right-aligned |     $1600 |
