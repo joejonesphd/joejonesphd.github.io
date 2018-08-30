@@ -25,24 +25,24 @@ I am originally from Chattanooga, TN. I received my Bachelors and Masters from t
 
 ## Publications
 
-* [**Longitudinal Correspondence between Subjective and Objective Memory in the Oldest Old: A Parallel-Process Model by Gender**](#)
-
-  Jones, J.W., Fauth, E.B., Ernsth-Bravell, M., Johansson, B., and Ledermann, T., Under Review
-  
-***
-
 * [**How related are changes in self-rated health and depression over time? A Growth Mixture Model approach in older adults**](#)
 
-  Jones, J.W., Ledermann, T., Fauth, E.B., Under Review.
+  Jones, J.W., Ledermann, T., Fauth, E.B., In Press, Archives of Gerontology and Geriatrics.
 
 ***
 
 * [**School engagement and achievement in sibling pairs: Gender and birth order matter**] 
    
-  Troesch, L., Ledermann, T., Keller, K., Jones, J. W, & Grob, A., Under Review.
+  Troesch, L., Ledermann, T., Keller, K., Jones, J. W, & Grob, A., Conditionally Accepted.
 
 ***
 
+* [**Longitudinal Correspondence between Subjective and Objective Memory in the Oldest Old: A Parallel-Process Model by Gender**](#)
+
+  Jones, J.W., Fauth, E.B., Ernsth-Bravell, M., Johansson, B., and Ledermann, T., Under Review
+  
+***  
+  
 * [**Variability in Olfactory Detection Thresholds in End-Stage Renal Disease Patients [Abstract]**]
 
   Jones, J. W., McCurdy, M., Ozbek, I. N., Tumlin, J. A. (2014). Association of Chemoreceptive Sciences 36
