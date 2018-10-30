@@ -15,7 +15,7 @@ Referring back to variability and the substantive significance, the two-point di
 
 On the other hand, the increased variability in TestZ from above actually decreases the substantive significance for the 20-point difference. With a standard deviation of 80 for TestZ, we can expect that 98% of District 2 scores would be between 40 and 360. For District 1, we expect that 98% of the scores to between 60 and 380. For TestY, we now have the top 93% of District 2 overlapping with the bottom 93% of District 1. As one can easily tell at this point, there is considerable overlap between the two districts and the 20-point difference now has little substantive value.
 
-We can also use the SD as a way of determing percentile ranks. However, the transferring of SD to standardized scores does not change the distribution, and using standardized scores to get percentile ranks assume a normal distribution. So this is why I think it can be even easier to report SDs and a lay-person with no experience in Statistics can understand what is going on. 
+However, I think it can be even easier to report SDs and a lay-person with no experience in Statistics can understand what is going on. 
 
 ## Show Pictures
 
