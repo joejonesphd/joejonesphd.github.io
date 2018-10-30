@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Variability Importance Part II
+title: Variability Importance
 author: Joe Jones
 ---
 
 Why we need to show measures of variability in the media.  
 
-# Part I.  
+# Is it really that hard to show Variability 
 -----
 
-# Is it really that hard to show Standard Deviations
+# Introduction
 
 I understand that not everyone has ever been exposed to "sophisticated" measures of variability. Thinking back to my education, before college, I only learned about range as a measure of variability. However, I do remember learning about percentile ranks. Once I got to college and learned about standard deviations (SDs) in my first stats class, it made understanding percentile ranks even better. It wasn't until I learned about hypothesis testing that I really learned the importance of SDs. 
 
@@ -34,12 +34,12 @@ We can also use the SD as a way of determing percentile ranks. However, the tran
 Instead of going through the explanation above about the substantive differences between the two districts, just show the below pictures.
 
 Here is the faceted distributions for TestX:
-![TestX-D](../images/TestX-D.PNG "TestX")
+![TestX](../images/TestX.png "TestX")
 
 As you can see, there is very little overlap between the two Districts. 
 
 Here is the faceted distributions for TestZ:
-![TestZ-D](../images/TestZ-D.PNG "TestZ")
+![TestZ](../images/TestZ.png "TestZ")
 
 Evidence here shows that even though there is a 20 point difference between the two districts, there is still considerable overlap. 
 
