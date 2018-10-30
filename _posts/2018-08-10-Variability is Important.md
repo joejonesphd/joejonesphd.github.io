@@ -29,18 +29,25 @@ We can also use the SD as a way of determing percentile ranks. However, the tran
 ## Show Pictures
 Instead of going through the explanation above about the substantive differences between the two districts, just show the below pictures.
 
-Here is the overlapping distributions for TestX:![TestX-D](../images/TestX-D.png "TestX")
+Here is the faceted distributions for TestX:![TestX-D](../images/TestX-D.PNG "TestX")
 
-Here is the overlapping distributions for TestZ:![TestZ-D](../images/TestZ-D.png "TestZ")
+As you can see, there is very little overlap between the two Districts. 
+
+Here is the faceted distributions for TestZ:![TestZ-D](../images/TestZ-D.PNG "TestZ")
+
+Evidence here shows that even though there is a 20 point difference between the two districts, there is still considerable overlap.
 
 Similarly, when other trivial things are being reported, like batting averages, show the distribution and highlight where the player falls. Then people would know if that .010 difference over the league average is impressive or not. 
 
 Player Comparison to league:![Ozzie](../images/Ozzie.png "Ozzie Albies")
 
-Ozzie Albies from the ATL Braves is probably my favorite player in the league now. I like his style of play and approach to the game. Also, he hussles so much that he loses his helmet more often than not. 
+Ozzie Albies from the ATL Braves is probably my favorite player in the league as of now. I like his style of play and approach to the game. Also, he hussles so much that he loses his helmet more often than not. However, despite hitting above the league average, the verticle line added shows he is not far from the average. 
+
+I would also like to thank [FanGraphs](fangraphs.com) for doing what they do. If you are at all interested in just obtaining some data or what to learn about Sabermetrics, check them out.
 
 ## In Sum
-Everything I just outlined in the first section is consicely displayed in the above images. Pictures really are worth a 1000 words, and if we can succiently showcase the importance of SD with images that take less than two minutes to generate, why don't we. I could spend a lot of time (and probably will in a later post) about statistical verse substantive significance, but that can easily be seen and understood utlizing these simple images. So instead of treating everyone as ignorant because we do not have the time to teach them inferential statistics, let's treat people like the intelligent person they are and give them as much information as possible.
+
+Everything I just outlined in the first section is consicely displayed via the above images. Pictures really are worth a 1000 words, and if we can succiently showcase the importance of SD with images that take less than two minutes to generate, why don't we. I could spend a lot of time (and probably will in a later post) about statistical verse substantive significance, but that can easily be seen and understood utlizing these simple images. So instead of treating everyone as ignorant because we do not have the time to teach them inferential statistics, let's treat people like the intelligent person they are and give them as much information as possible.
 
 I will continue to tweet various networks to provide more information, especially about variability when I see them. I encourage you to do the same. 
 
