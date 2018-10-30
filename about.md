@@ -57,7 +57,7 @@ However, I am an applied Quantitative Scientist/Analyst and use my statisitcal s
 
 * **Longitudinal Correspondence of Growth in Different Indicators of Health**
 
- Poster presentation at the Gerontological Society of America's 71st Annual Scientific Meeting - 2018.
+  Poster presentation at the Gerontological Society of America's 71st Annual Scientific Meeting - 2018.
 
 * **Subjective and Objective Memory in the Oldest Old: A Parallel-Process Model by Gender**
 
