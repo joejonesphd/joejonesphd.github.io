@@ -23,4 +23,4 @@ A news station reported that when comparing two local District Schools, District
 
 Measurement properties (variability) and study/sample characteristics (sample size) may eliminate an apparent substantive significance or conversely, indicate an apparent small difference has a lot of substantive value. Variability of a measurement will vary between different tests. For example, TestX may have an average score of 20 and a standard deviation of .5 while TestZ has an average score of 200 with a standard deviation of 80. This means that 98% of scores fall between 19-21 and 40-360 for TestX and TestZ, respectively. 
 
-Check out [Part II]() next.
+Check out [Part II](https://josephjonesphd.com/Variability2/) next.
