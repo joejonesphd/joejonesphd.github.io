@@ -22,12 +22,12 @@ However, I think it can be even easier to report SDs and a lay-person with no ex
 Instead of going through the explanation above about the substantive differences between the two districts, just show the below pictures.
 
 Here is the faceted distributions for TestX:
-![TestX-D](../images/TestX-D.PNG "TestX")
+![TestX](../images/TestX.png "TestX")
 
 As you can see, there is very little overlap between the two Districts. 
 
 Here is the faceted distributions for TestZ:
-![TestZ-D](../images/TestZ-D.PNG "TestZ")
+![TestZ](../images/TestZ.png "TestZ")
 
 Evidence here shows that even though there is a 20 point difference between the two districts, there is still considerable overlap. 
 
