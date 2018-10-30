@@ -4,9 +4,9 @@ title: Varibility Importance Part II
 author: Joe Jones
 ---
 
-Issue getting blog working.
+Why we need to show measures of variability in the media.  
 
-# Just some quick checks. 
+# Part II.
 -----
 
-WIll this post?
+Be sure to check out [Part I](https://josephjonesphd.com/Variability1/) first. 
