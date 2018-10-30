@@ -9,7 +9,7 @@ Why we need to show measures of variability in the media.
 # Part III.
 -----
 
-Part III. Be sure to check out [Part I]() and [Part II]() if you have not already.
+Part III. Be sure to check out [Part I](https://josephjonesphd.com/Variability1/) and [Part II](https://josephjonesphd.com/Variability2/) if you have not already.
 
 Similarly, when other trivial things are being reported, like batting averages, show the distribution and highlight where the player falls. Then people would know if that .010 difference over the league average is impressive or not. 
 
