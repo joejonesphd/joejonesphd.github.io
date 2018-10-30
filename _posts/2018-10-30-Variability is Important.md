@@ -4,10 +4,10 @@ title: Measures of Variability
 author: Joe Jones
 ---
 
-Why we need to show measures of variability in the media.  
------
+Why we need to show measures of variability in the media.
 
 # Is it really that hard to show Standard Deviations?
+-----
 
 I understand that not everyone has ever been exposed to "sophisticated" measures of variability. Thinking back to my education, before college, I only learned about range as a measure of variability. However, I do remember learning about percentile ranks. Once I got to college and learned about standard deviations (SDs) in my first stats class, it made understanding percentile ranks even better. It wasn't until I learned about hypothesis testing that I really learned the importance of SDs. 
 
