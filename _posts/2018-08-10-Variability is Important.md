@@ -7,7 +7,8 @@ author: Joe Jones
 Why we need to show measures of variability in the media.  
 -----
 
-## Is it really that hard to show Standard Deviations?  
+# Is it really that hard to show Standard Deviations?
+
 I understand that not everyone has ever been exposed to "sophisticated" measures of variability. Thinking back to my education, before college, I only learned about range as a measure of variability. However, I do remember learning about percentile ranks. Once I got to college and learned about standard deviations (SDs) in my first stats class, it made understanding percentile ranks even better. It wasn't until I learned about hypothesis testing that I really learned the importance of SDs. 
 
 I see reports of group comparisons all the time in the media. It can be something as trivial as comparing a player's batting average to the league average, or something influential as a school's average on a test compared to the national or state average. These differences mean absolutlely nothing without knowledge of one and/or two things: 
@@ -27,6 +28,7 @@ On the other hand, the increased variability in TestZ from above actually decrea
 We can also use the SD as a way of determing percentile ranks. However, the transferring of SD to standardized scores does not change the distribution, and using standardized scores to get percentile ranks assume a normal distribution. So this is why I think it can be even easier to report SDs and a lay-person with no experience in Statistics can understand what is going on. 
 
 ## Show Pictures
+
 Instead of going through the explanation above about the substantive differences between the two districts, just show the below pictures.
 
 Here is the faceted distributions for TestX:![TestX-D](../images/TestX-D.PNG "TestX")
