@@ -18,7 +18,7 @@ Player Comparison to league:
 
 Ozzie Albies from the ATL Braves is probably my favorite player in the league as of now. I like his style of play and approach to the game. Also, he hussles so much that he loses his helmet more often than not. However, despite hitting above the league average, the verticle line added shows he is not far from the average. 
 
-I would also like to thank [FanGraphs](fangraphs.com) for doing what they do. If you are at all interested in just obtaining some data or what to learn about Sabermetrics, check them out.
+I would also like to thank [FanGraphs](fangraphs.com){:target="_blank"} for doing what they do. If you are at all interested in just obtaining some data or what to learn about Sabermetrics, check them out.
 
 ## In Sum
 
