@@ -24,7 +24,7 @@ However, I am an applied Quantitative Scientist/Analyst and use my statisitcal s
 
 * **Data Analytics** - `Longitudinal Analyses` / `Structural Equation Modeling` / `Multilevel Modeling` / `Latent Class Analyses` / `Predictive Modeling`
 * **Courses Taught** - `General Psychology` / `Life Span Development` / `Undergraduate Statistics` / `Graduate Statistics`
-* **Content** - `Healthy Ageing` / `Physical` / `Mental and Cognitive Health` / `Predictors of Change` / `Sports`
+* **Content** - `Healthy Ageing` / `Physical, Mental, and Cognitive Health` / `Predictors of Change` / `Sports`
 * **Hobbies** - `Baseball` / `Fly and Ice Fishing` / `Woodworking` / `Skydiving` / `Golf`
 
 ## Previous Roles
