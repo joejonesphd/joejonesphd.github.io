@@ -31,17 +31,20 @@ We can also use the SD as a way of determing percentile ranks. However, the tran
 
 Instead of going through the explanation above about the substantive differences between the two districts, just show the below pictures.
 
-Here is the faceted distributions for TestX:![TestX-D](../images/TestX-D.PNG "TestX")
+Here is the faceted distributions for TestX:
+![TestX-D](../images/TestX-D.PNG "TestX")
 
 As you can see, there is very little overlap between the two Districts. 
 
-Here is the faceted distributions for TestZ:![TestZ-D](../images/TestZ-D.PNG "TestZ")
+Here is the faceted distributions for TestZ:
+![TestZ-D](../images/TestZ-D.PNG "TestZ")
 
 Evidence here shows that even though there is a 20 point difference between the two districts, there is still considerable overlap.
 
 Similarly, when other trivial things are being reported, like batting averages, show the distribution and highlight where the player falls. Then people would know if that .010 difference over the league average is impressive or not. 
 
-Player Comparison to league:![Ozzie](../images/Ozzie.png "Ozzie Albies")
+Player Comparison to league:
+![Ozzie](../images/Ozzie.png "Ozzie Albies")
 
 Ozzie Albies from the ATL Braves is probably my favorite player in the league as of now. I like his style of play and approach to the game. Also, he hussles so much that he loses his helmet more often than not. However, despite hitting above the league average, the verticle line added shows he is not far from the average. 
 
