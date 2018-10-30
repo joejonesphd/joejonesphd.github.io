@@ -17,7 +17,8 @@ However, I am an applied Quantitative Scientist/Analyst and use my statisitcal s
 
 ## Current Roles
 
-* Instructor - PSY/EDUC 6600 (Graudate Statistics), Utah State University
+* Statistical Consultant - Utah State University, [Statistical Consulting Studio](https://cehs.usu.edu/research/statstudio/index) 
+* Instructor - PSY/EDUC 6600 (Graudate Statistics), USU
 * Senior Research Associate, Ross Trial Consulting
 
 ## Interests
