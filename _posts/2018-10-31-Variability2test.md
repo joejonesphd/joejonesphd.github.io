@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Variability Importance Part I
+title: Variability Importance Part II
 author: Joe Jones
 ---
 
 Why we need to show measures of variability in the media.  
 
-# Part I.  
+# Part II.  
 -----
 
 Be sure to check out [Part I](https://josephjonesphd.com/Variability1/) first. 
