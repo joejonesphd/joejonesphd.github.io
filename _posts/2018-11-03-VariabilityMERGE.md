@@ -61,6 +61,6 @@ Everything I just outlined in the first section is consicely displayed via the a
 I will continue to tweet various networks to provide more information, especially about variability when I see them. I encourage you to do the same. 
 
 Cheers,
--Joe
+-Joe Jones
 
 [fangraphs link]: https://www.fangraphs.com
