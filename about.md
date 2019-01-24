@@ -18,7 +18,7 @@ I also work as a Senior Research Associate with David Ross at his [Trial Consult
 
 ## Education
 
-* Ph.D. Psychology - Utah State University,        2019
+* Ph.D. Psychology - Utah State University,        2019 (Expected)
   + Area of Emphasis: Quantitative Psychology
 * M.S.  Psychology - University of TN-Chattanooga, 2014
 * B.S.  Psychology - University of TN-Chattanooga, 2011
